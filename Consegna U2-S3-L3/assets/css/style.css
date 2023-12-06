@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+header {
+    margin-bottom: 5rem;
+}
+
+div.card {
+    min-height: 580px;
+}
+
+.card-body h5 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
